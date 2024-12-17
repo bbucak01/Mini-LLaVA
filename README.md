@@ -30,7 +30,7 @@ This project goes above and beyond the original by introducing powerful support 
 
 ## Environment Set-up
 ```shell
-run set.sh
+bash set.sh
 ```
 
 
